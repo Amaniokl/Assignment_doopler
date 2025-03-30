@@ -49,7 +49,7 @@ Provide a brief description of your project. Explain what it does, its main feat
 
 2. **Access the application:**
 
-   Open your browser and go to `http://localhost:PORT/api`, replacing `PORT` with the actual port number your server is running on.
+   Open your browser and go to `http://localhost:PORT/api`, replacing `PORT` with the actual port number your server is running on or for using deployed server `https://assignment-doopler.onrender.com/api`.
 
 ## Configuration
 
